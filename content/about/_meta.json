@@ -6,5 +6,9 @@
   {
     "path": "/about/example",
     "text": "Markdown Example"
+  },
+  {
+    "path": "/about/north-carolina",
+    "text": "North Carolina"
   }
 ]
